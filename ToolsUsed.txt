@@ -1,0 +1,6 @@
+## Tools used within the process of creating this React App/Webpage.
+
+- React Frameworks
+- TypeScript
+- Bootstrap
+- CSS
